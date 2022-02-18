@@ -1,10 +1,10 @@
-# FLOEMA
+# SingularityU Chapter Buenos Aires
 
-_Hey! This is a boilerplate which inspired from Luis Henrique Bizarro course on Awwwards but intent to use latest and v5 techniques of Webpack._
+_Hey! This is the website about SingulairtyU Chapter Buenos Aires. This expert squad help leaders create positive impact by understanding the future direction and convergence of technologies and how they will transform business._
 
 ## The idea 🚀
 
-**Floema website. Floema is a jewelry brand all design and handmade by _Valentina Caprini_**
+**Chapter website. Singularity was founded on the idea that exponential technology can give anyone, anywhere the ability to create positive impact. Now more than ever, we need leaders who put the future of both people and planet first. It's our mission to help leaders navigate a world of accelerating change, merge technology and impact, and build 10x businesses and a better tomorrow for all.**
 
 ## Build with 🛠️
 
@@ -18,9 +18,8 @@ _Hey! This is a boilerplate which inspired from Luis Henrique Bizarro course on 
 
 ## Authors ✒️
 
-_Inspired from Luis Henrique Bizarro course on Awwwards_
+_Inspired from my previous 'FLOEMA website'_
 
 * **Martina Ramirez** - *This work* - [marfano](https://github.com/marfano)
-* **Luis Henrique Bizarro** - *Standard work* - [ihbizarro](https://github.com/lhbizarro)
 
 ⌨️ with ❤️ by [marfano](https://github.com/marfano)
